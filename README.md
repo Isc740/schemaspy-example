@@ -6,7 +6,7 @@ Este es un repositorio que usa [SchemaSpy](http://schemaspy.org/) para generar d
 ## ✅ Requisitos
 
 - Java 8 o superior
-- SchemaSpy [SchemaSpy](https://github.com/schemaspy/schemaspy/releases)
+- [SchemaSpy](https://github.com/schemaspy/schemaspy/releases)
 - Driver JDBC para [MySQL](https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-9.3.0.zip)
 - Un archivo `.properties` configurado con los parametros para acceder a tu db.
 - Tener instalada la dependencia `graphviz` en tu pc `npm install -g graphviz`
