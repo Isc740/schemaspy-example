@@ -1,6 +1,6 @@
 # 📊 Documentación de Base de Datos con SchemaSpy (MySQL)
 
-Este proyecto utiliza [SchemaSpy](http://schemaspy.org/) para generar documentación visual de una base de datos MySQL a partir de su estructura.
+Este es un repositorio que usa [SchemaSpy](http://schemaspy.org/) para generar documentación visual de una base de datos MySQL a partir de su estructura.
 
 
 ## ✅ Requisitos
