@@ -2,10 +2,7 @@
 
 Este proyecto utiliza [SchemaSpy](http://schemaspy.org/) para generar documentación visual de una base de datos MySQL a partir de su estructura.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 7435625 (initial commit)
 ## ✅ Requisitos
 
 - Java 8 o superior
@@ -14,10 +11,7 @@ Este proyecto utiliza [SchemaSpy](http://schemaspy.org/) para generar documentac
 - Un archivo `.properties` configurado con los parametros para acceder a tu db.
 - Tener instalada la dependencia `graphviz` en tu pc `npm install -g graphviz`
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 7435625 (initial commit)
 ## 🚀 Cómo usar
 
 Ejecuta ese comando en el directorio donde se encuentra schemaspy.
@@ -26,10 +20,6 @@ Ejecuta ese comando en el directorio donde se encuentra schemaspy.
 java -jar schemaspy-6.x.x.jar
 ```
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 7435625 (initial commit)
 ## 📁 Estructura esperada
 
 ```bash
